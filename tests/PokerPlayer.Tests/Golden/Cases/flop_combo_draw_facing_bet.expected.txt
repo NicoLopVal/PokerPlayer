@@ -1,0 +1,6 @@
+exit 0
+FOLD          0.4%   EV   +0.00
+CHECK         0.0%   not allowed
+CALL         47.0%   EV   +8.80
+RAISE 6      52.6%   EV   +9.01
+RAISE 6

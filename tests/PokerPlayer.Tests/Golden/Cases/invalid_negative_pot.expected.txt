@@ -1,0 +1,2 @@
+exit 2
+inv05: Invalid pot value. -5 is not a valid pot value, it cannot be negative.

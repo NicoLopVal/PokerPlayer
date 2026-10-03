@@ -1,0 +1,1620 @@
+{
+  "schemaVersion": 1,
+  "id": "5d5089f9-7864-42ac-95ee-377d5167ab2a",
+  "title": "PlanMap",
+  "nodes": [
+    {
+      "id": "9095a3e8-2131-4e0f-9123-e826bc591b75",
+      "x": 720,
+      "y": 940,
+      "width": 200,
+      "height": 90,
+      "shape": "RoundedRectangle",
+      "text": "Tests",
+      "textStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 16,
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "color": "#FF1F2937",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "fillColor": "#FFDBEAFE",
+      "strokeColor": "#FF2563EB",
+      "strokeThickness": 2,
+      "strokeStyle": "Solid",
+      "cornerRadius": 10,
+      "zIndex": 0,
+      "bounds": {
+        "x": 720,
+        "y": 940,
+        "width": 200,
+        "height": 90,
+        "left": 720,
+        "top": 940,
+        "right": 920,
+        "bottom": 1030,
+        "isEmpty": false,
+        "center": {
+          "x": 820,
+          "y": 985
+        },
+        "topLeft": {
+          "x": 720,
+          "y": 940
+        }
+      }
+    },
+    {
+      "id": "0724029c-6614-4634-ae0e-276d42f7c848",
+      "x": 1060,
+      "y": 760,
+      "width": 160,
+      "height": 80,
+      "shape": "Ellipse",
+      "text": "Invalid input",
+      "textStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 14,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF1F2937",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "fillColor": "#FFDBEAFE",
+      "strokeColor": "#FF2563EB",
+      "strokeThickness": 2,
+      "strokeStyle": "Solid",
+      "cornerRadius": 10,
+      "zIndex": 1,
+      "bounds": {
+        "x": 1060,
+        "y": 760,
+        "width": 160,
+        "height": 80,
+        "left": 1060,
+        "top": 760,
+        "right": 1220,
+        "bottom": 840,
+        "isEmpty": false,
+        "center": {
+          "x": 1140,
+          "y": 800
+        },
+        "topLeft": {
+          "x": 1060,
+          "y": 760
+        }
+      }
+    },
+    {
+      "id": "712a7723-b957-42bc-871b-aae50065c922",
+      "x": 1060,
+      "y": 900,
+      "width": 160,
+      "height": 80,
+      "shape": "Ellipse",
+      "text": "Unit tests for formulas and KPI calculation",
+      "textStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 14,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF1F2937",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "fillColor": "#FFDBEAFE",
+      "strokeColor": "#FF2563EB",
+      "strokeThickness": 2,
+      "strokeStyle": "Solid",
+      "cornerRadius": 10,
+      "zIndex": 2,
+      "bounds": {
+        "x": 1060,
+        "y": 900,
+        "width": 160,
+        "height": 80,
+        "left": 1060,
+        "top": 900,
+        "right": 1220,
+        "bottom": 980,
+        "isEmpty": false,
+        "center": {
+          "x": 1140,
+          "y": 940
+        },
+        "topLeft": {
+          "x": 1060,
+          "y": 900
+        }
+      }
+    },
+    {
+      "id": "15366808-a13c-4fa0-95e6-5591d2eda868",
+      "x": 1060,
+      "y": 1000,
+      "width": 160,
+      "height": 80,
+      "shape": "Ellipse",
+      "text": "Available Options.",
+      "textStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 14,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF1F2937",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "fillColor": "#FFDBEAFE",
+      "strokeColor": "#FF2563EB",
+      "strokeThickness": 2,
+      "strokeStyle": "Solid",
+      "cornerRadius": 10,
+      "zIndex": 3,
+      "bounds": {
+        "x": 1060,
+        "y": 1000,
+        "width": 160,
+        "height": 80,
+        "left": 1060,
+        "top": 1000,
+        "right": 1220,
+        "bottom": 1080,
+        "isEmpty": false,
+        "center": {
+          "x": 1140,
+          "y": 1040
+        },
+        "topLeft": {
+          "x": 1060,
+          "y": 1000
+        }
+      }
+    },
+    {
+      "id": "032804f8-f858-4d0f-aca0-d3a7501beab4",
+      "x": 340,
+      "y": 480,
+      "width": 160,
+      "height": 80,
+      "shape": "Ellipse",
+      "text": "inconsistent number of cards given the stage of the game",
+      "textStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 14,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF1F2937",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "fillColor": "#FFDBEAFE",
+      "strokeColor": "#FF2563EB",
+      "strokeThickness": 2,
+      "strokeStyle": "Solid",
+      "cornerRadius": 10,
+      "zIndex": 4,
+      "bounds": {
+        "x": 340,
+        "y": 480,
+        "width": 160,
+        "height": 80,
+        "left": 340,
+        "top": 480,
+        "right": 500,
+        "bottom": 560,
+        "isEmpty": false,
+        "center": {
+          "x": 420,
+          "y": 520
+        },
+        "topLeft": {
+          "x": 340,
+          "y": 480
+        }
+      }
+    },
+    {
+      "id": "8daee1bb-85a7-4018-8e75-167af59a2daa",
+      "x": 340,
+      "y": 380,
+      "width": 160,
+      "height": 80,
+      "shape": "Ellipse",
+      "text": "Invalid or null cards",
+      "textStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 14,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF1F2937",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "fillColor": "#FFDBEAFE",
+      "strokeColor": "#FF2563EB",
+      "strokeThickness": 2,
+      "strokeStyle": "Solid",
+      "cornerRadius": 10,
+      "zIndex": 5,
+      "bounds": {
+        "x": 340,
+        "y": 380,
+        "width": 160,
+        "height": 80,
+        "left": 340,
+        "top": 380,
+        "right": 500,
+        "bottom": 460,
+        "isEmpty": false,
+        "center": {
+          "x": 420,
+          "y": 420
+        },
+        "topLeft": {
+          "x": 340,
+          "y": 380
+        }
+      }
+    },
+    {
+      "id": "6d036bef-45f6-47bd-8640-9edb267a190e",
+      "x": 80,
+      "y": 60,
+      "width": 160,
+      "height": 80,
+      "shape": "Rectangle",
+      "text": "Receive input",
+      "textStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 14,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF1F2937",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "fillColor": "#FFDBEAFE",
+      "strokeColor": "#FF2563EB",
+      "strokeThickness": 2,
+      "strokeStyle": "Solid",
+      "cornerRadius": 10,
+      "zIndex": 6,
+      "bounds": {
+        "x": 80,
+        "y": 60,
+        "width": 160,
+        "height": 80,
+        "left": 80,
+        "top": 60,
+        "right": 240,
+        "bottom": 140,
+        "isEmpty": false,
+        "center": {
+          "x": 160,
+          "y": 100
+        },
+        "topLeft": {
+          "x": 80,
+          "y": 60
+        }
+      }
+    },
+    {
+      "id": "1822541a-52f1-4879-a58a-097f40922693",
+      "x": 340,
+      "y": 60,
+      "width": 160,
+      "height": 80,
+      "shape": "Rectangle",
+      "text": "Validate input",
+      "textStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 14,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF1F2937",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "fillColor": "#FFDBEAFE",
+      "strokeColor": "#FF2563EB",
+      "strokeThickness": 2,
+      "strokeStyle": "Solid",
+      "cornerRadius": 10,
+      "zIndex": 7,
+      "bounds": {
+        "x": 340,
+        "y": 60,
+        "width": 160,
+        "height": 80,
+        "left": 340,
+        "top": 60,
+        "right": 500,
+        "bottom": 140,
+        "isEmpty": false,
+        "center": {
+          "x": 420,
+          "y": 100
+        },
+        "topLeft": {
+          "x": 340,
+          "y": 60
+        }
+      }
+    },
+    {
+      "id": "b16ef14d-3283-412d-b9a0-bb7b4b18400f",
+      "x": 60,
+      "y": 460,
+      "width": 160,
+      "height": 80,
+      "shape": "RoundedRectangle",
+      "text": "Validate Input: Make sure incoming data makes sense.",
+      "textStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 14,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF1F2937",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "fillColor": "#FFDBEAFE",
+      "strokeColor": "#FF2563EB",
+      "strokeThickness": 2,
+      "strokeStyle": "Solid",
+      "cornerRadius": 10,
+      "zIndex": 8,
+      "bounds": {
+        "x": 60,
+        "y": 460,
+        "width": 160,
+        "height": 80,
+        "left": 60,
+        "top": 460,
+        "right": 220,
+        "bottom": 540,
+        "isEmpty": false,
+        "center": {
+          "x": 140,
+          "y": 500
+        },
+        "topLeft": {
+          "x": 60,
+          "y": 460
+        }
+      }
+    },
+    {
+      "id": "a09012a9-01c9-4c3f-b483-975e51e312bb",
+      "x": 340,
+      "y": 580,
+      "width": 160,
+      "height": 80,
+      "shape": "Ellipse",
+      "text": "Pot is consistent",
+      "textStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 14,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF1F2937",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "fillColor": "#FFDBEAFE",
+      "strokeColor": "#FF2563EB",
+      "strokeThickness": 2,
+      "strokeStyle": "Solid",
+      "cornerRadius": 10,
+      "zIndex": 9,
+      "bounds": {
+        "x": 340,
+        "y": 580,
+        "width": 160,
+        "height": 80,
+        "left": 340,
+        "top": 580,
+        "right": 500,
+        "bottom": 660,
+        "isEmpty": false,
+        "center": {
+          "x": 420,
+          "y": 620
+        },
+        "topLeft": {
+          "x": 340,
+          "y": 580
+        }
+      }
+    },
+    {
+      "id": "877693e9-ca58-410e-8775-b7a34a650310",
+      "x": 820,
+      "y": 60,
+      "width": 160,
+      "height": 80,
+      "shape": "Rectangle",
+      "text": "Evaluate KPIs",
+      "textStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 14,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF1F2937",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "fillColor": "#FFDBEAFE",
+      "strokeColor": "#FF2563EB",
+      "strokeThickness": 2,
+      "strokeStyle": "Solid",
+      "cornerRadius": 10,
+      "zIndex": 10,
+      "bounds": {
+        "x": 820,
+        "y": 60,
+        "width": 160,
+        "height": 80,
+        "left": 820,
+        "top": 60,
+        "right": 980,
+        "bottom": 140,
+        "isEmpty": false,
+        "center": {
+          "x": 900,
+          "y": 100
+        },
+        "topLeft": {
+          "x": 820,
+          "y": 60
+        }
+      }
+    },
+    {
+      "id": "a9dd0354-5df0-4b2d-8060-f63a4495eb08",
+      "x": 1080,
+      "y": 60,
+      "width": 160,
+      "height": 80,
+      "shape": "Rectangle",
+      "text": "Evaluate Options",
+      "textStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 14,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF1F2937",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "fillColor": "#FFDBEAFE",
+      "strokeColor": "#FF2563EB",
+      "strokeThickness": 2,
+      "strokeStyle": "Solid",
+      "cornerRadius": 10,
+      "zIndex": 11,
+      "bounds": {
+        "x": 1080,
+        "y": 60,
+        "width": 160,
+        "height": 80,
+        "left": 1080,
+        "top": 60,
+        "right": 1240,
+        "bottom": 140,
+        "isEmpty": false,
+        "center": {
+          "x": 1160,
+          "y": 100
+        },
+        "topLeft": {
+          "x": 1080,
+          "y": 60
+        }
+      }
+    },
+    {
+      "id": "06056f16-599c-411c-9b8f-c735ba7d4a14",
+      "x": 580,
+      "y": 60,
+      "width": 160,
+      "height": 80,
+      "shape": "Diamond",
+      "text": "Is Data OK",
+      "textStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 14,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF1F2937",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "fillColor": "#FFDBEAFE",
+      "strokeColor": "#FF2563EB",
+      "strokeThickness": 2,
+      "strokeStyle": "Solid",
+      "cornerRadius": 10,
+      "zIndex": 13,
+      "bounds": {
+        "x": 580,
+        "y": 60,
+        "width": 160,
+        "height": 80,
+        "left": 580,
+        "top": 60,
+        "right": 740,
+        "bottom": 140,
+        "isEmpty": false,
+        "center": {
+          "x": 660,
+          "y": 100
+        },
+        "topLeft": {
+          "x": 580,
+          "y": 60
+        }
+      }
+    },
+    {
+      "id": "cfc23bca-d6b3-4b3b-a30e-a3584b1320f8",
+      "x": 580,
+      "y": 200,
+      "width": 160,
+      "height": 80,
+      "shape": "Ellipse",
+      "text": "Throw Exception",
+      "textStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 14,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF1F2937",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "fillColor": "#FFDBEAFE",
+      "strokeColor": "#FF2563EB",
+      "strokeThickness": 2,
+      "strokeStyle": "Solid",
+      "cornerRadius": 10,
+      "zIndex": 14,
+      "bounds": {
+        "x": 580,
+        "y": 200,
+        "width": 160,
+        "height": 80,
+        "left": 580,
+        "top": 200,
+        "right": 740,
+        "bottom": 280,
+        "isEmpty": false,
+        "center": {
+          "x": 660,
+          "y": 240
+        },
+        "topLeft": {
+          "x": 580,
+          "y": 200
+        }
+      }
+    },
+    {
+      "id": "166d43ed-8292-40b3-b60b-51771b51a31e",
+      "x": 60,
+      "y": 780,
+      "width": 160,
+      "height": 80,
+      "shape": "RoundedRectangle",
+      "text": "Evaluate KPIs: Build all KPIs based on the known information.",
+      "textStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 14,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF1F2937",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "fillColor": "#FFDBEAFE",
+      "strokeColor": "#FF2563EB",
+      "strokeThickness": 2,
+      "strokeStyle": "Solid",
+      "cornerRadius": 10,
+      "zIndex": 15,
+      "bounds": {
+        "x": 60,
+        "y": 780,
+        "width": 160,
+        "height": 80,
+        "left": 60,
+        "top": 780,
+        "right": 220,
+        "bottom": 860,
+        "isEmpty": false,
+        "center": {
+          "x": 140,
+          "y": 820
+        },
+        "topLeft": {
+          "x": 60,
+          "y": 780
+        }
+      }
+    },
+    {
+      "id": "7b3d9f85-122b-403a-a68f-51c388818b57",
+      "x": 1080,
+      "y": 220,
+      "width": 160,
+      "height": 80,
+      "shape": "Diamond",
+      "text": "Best is to raise stakes?",
+      "textStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 14,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF1F2937",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "fillColor": "#FFDBEAFE",
+      "strokeColor": "#FF2563EB",
+      "strokeThickness": 2,
+      "strokeStyle": "Solid",
+      "cornerRadius": 10,
+      "zIndex": 16,
+      "bounds": {
+        "x": 1080,
+        "y": 220,
+        "width": 160,
+        "height": 80,
+        "left": 1080,
+        "top": 220,
+        "right": 1240,
+        "bottom": 300,
+        "isEmpty": false,
+        "center": {
+          "x": 1160,
+          "y": 260
+        },
+        "topLeft": {
+          "x": 1080,
+          "y": 220
+        }
+      }
+    },
+    {
+      "id": "139527e8-81ba-48b6-a76e-0037d56f692d",
+      "x": 1320,
+      "y": 220,
+      "width": 160,
+      "height": 80,
+      "shape": "Rectangle",
+      "text": "Calculate raise.",
+      "textStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 14,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF1F2937",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "fillColor": "#FFDBEAFE",
+      "strokeColor": "#FF2563EB",
+      "strokeThickness": 2,
+      "strokeStyle": "Solid",
+      "cornerRadius": 10,
+      "zIndex": 17,
+      "bounds": {
+        "x": 1320,
+        "y": 220,
+        "width": 160,
+        "height": 80,
+        "left": 1320,
+        "top": 220,
+        "right": 1480,
+        "bottom": 300,
+        "isEmpty": false,
+        "center": {
+          "x": 1400,
+          "y": 260
+        },
+        "topLeft": {
+          "x": 1320,
+          "y": 220
+        }
+      }
+    },
+    {
+      "id": "b984ad7a-d4b3-49b9-96ae-43bf4d2a0774",
+      "x": 1080,
+      "y": 380,
+      "width": 160,
+      "height": 80,
+      "shape": "Rectangle",
+      "text": "Return decision",
+      "textStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 14,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF1F2937",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "fillColor": "#FFDBEAFE",
+      "strokeColor": "#FF2563EB",
+      "strokeThickness": 2,
+      "strokeStyle": "Solid",
+      "cornerRadius": 10,
+      "zIndex": 18,
+      "bounds": {
+        "x": 1080,
+        "y": 380,
+        "width": 160,
+        "height": 80,
+        "left": 1080,
+        "top": 380,
+        "right": 1240,
+        "bottom": 460,
+        "isEmpty": false,
+        "center": {
+          "x": 1160,
+          "y": 420
+        },
+        "topLeft": {
+          "x": 1080,
+          "y": 380
+        }
+      }
+    },
+    {
+      "id": "6f8d1f6b-102d-486a-8e35-431b1bcbb80e",
+      "x": 1060,
+      "y": 1120,
+      "width": 160,
+      "height": 80,
+      "shape": "Ellipse",
+      "text": "Betting limits",
+      "textStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 14,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF1F2937",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "fillColor": "#FFDBEAFE",
+      "strokeColor": "#FF2563EB",
+      "strokeThickness": 2,
+      "strokeStyle": "Solid",
+      "cornerRadius": 10,
+      "zIndex": 19,
+      "bounds": {
+        "x": 1060,
+        "y": 1120,
+        "width": 160,
+        "height": 80,
+        "left": 1060,
+        "top": 1120,
+        "right": 1220,
+        "bottom": 1200,
+        "isEmpty": false,
+        "center": {
+          "x": 1140,
+          "y": 1160
+        },
+        "topLeft": {
+          "x": 1060,
+          "y": 1120
+        }
+      }
+    },
+    {
+      "id": "26d450fc-e161-4cbc-b919-acbd5d4038a4",
+      "x": 160,
+      "y": 1180,
+      "width": 680,
+      "height": 280,
+      "shape": "Note",
+      "text": "1. Agree on which format is going to be presented the cards, and the input data as well.\r\n2. Build the business logic needed to build the KPIs that are relevant for decision making. \r\n3. Build the tests ensuring that works just fine. \r\n4. Based on books like Essential Poker Math, please apply the indicators built and return a percentage of chance for each action (if the action is not possible, then that one would return 0. All percentages must sum up for 100%).\r\n5. Build a Raise Bet engine that computes the pond, the chips both player have and the stage of tha game, based on the principles of the book. ",
+      "textStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 14,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF1F2937",
+        "horizontalAlignment": "Left",
+        "verticalAlignment": "Top"
+      },
+      "fillColor": "#FFDBEAFE",
+      "strokeColor": "#FF2563EB",
+      "strokeThickness": 2,
+      "strokeStyle": "Solid",
+      "cornerRadius": 10,
+      "zIndex": 20,
+      "bounds": {
+        "x": 160,
+        "y": 1180,
+        "width": 680,
+        "height": 280,
+        "left": 160,
+        "top": 1180,
+        "right": 840,
+        "bottom": 1460,
+        "isEmpty": false,
+        "center": {
+          "x": 500,
+          "y": 1320
+        },
+        "topLeft": {
+          "x": 160,
+          "y": 1180
+        }
+      }
+    },
+    {
+      "id": "32a4d759-e4ba-4be9-83af-2599948c7bd6",
+      "x": 1700,
+      "y": 100,
+      "width": 1480,
+      "height": 860,
+      "shape": "Rectangle",
+      "text": "DOMAIN LAYER",
+      "textStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 32,
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "color": "#FF1F2937",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Top"
+      },
+      "fillColor": "#FF6EE7B7",
+      "strokeColor": "#FF1F2937",
+      "strokeThickness": 2,
+      "strokeStyle": "Solid",
+      "cornerRadius": 10,
+      "zIndex": 21,
+      "bounds": {
+        "x": 1700,
+        "y": 100,
+        "width": 1480,
+        "height": 860,
+        "left": 1700,
+        "top": 100,
+        "right": 3180,
+        "bottom": 960,
+        "isEmpty": false,
+        "center": {
+          "x": 2440,
+          "y": 530
+        },
+        "topLeft": {
+          "x": 1700,
+          "y": 100
+        }
+      }
+    },
+    {
+      "id": "adfc1981-6636-4493-ad0c-5c5cd937b94f",
+      "x": 1760,
+      "y": 260,
+      "width": 280,
+      "height": 180,
+      "shape": "Rectangle",
+      "text": "- Cards nomenclature: \u0022TS\u0022, \u00225D\u0022, \u0022QH\u0022, etc...\r\n- Blinds: \u0022BB\u0022 or \u0022SB\u0022.\r\n- Betting rounds: \u0022Preflop\u0022, \u0022Flop\u0022, \u0022Turn\u0022, \u0022River\u0022.\r\n- Action: \u0022FOLD\u0022, \u0022CHECK\u0022, \u0022CALL\u0022, \u0022RAISE\u0022.",
+      "textStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 20,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF1F2937",
+        "horizontalAlignment": "Left",
+        "verticalAlignment": "Top"
+      },
+      "fillColor": "#00000000",
+      "strokeColor": "#FF000000",
+      "strokeThickness": 2,
+      "strokeStyle": "Solid",
+      "cornerRadius": 10,
+      "zIndex": 22,
+      "bounds": {
+        "x": 1760,
+        "y": 260,
+        "width": 280,
+        "height": 180,
+        "left": 1760,
+        "top": 260,
+        "right": 2040,
+        "bottom": 440,
+        "isEmpty": false,
+        "center": {
+          "x": 1900,
+          "y": 350
+        },
+        "topLeft": {
+          "x": 1760,
+          "y": 260
+        }
+      }
+    },
+    {
+      "id": "ec5abf83-b563-4e78-8307-e75d35abb4a9",
+      "x": 1820,
+      "y": 200,
+      "width": 160,
+      "height": 40,
+      "shape": "Rectangle",
+      "text": "ENUMS",
+      "textStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 28,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF1F2937",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "fillColor": "#00000000",
+      "strokeColor": "#00000000",
+      "strokeThickness": 2,
+      "strokeStyle": "Solid",
+      "cornerRadius": 10,
+      "zIndex": 23,
+      "bounds": {
+        "x": 1820,
+        "y": 200,
+        "width": 160,
+        "height": 40,
+        "left": 1820,
+        "top": 200,
+        "right": 1980,
+        "bottom": 240,
+        "isEmpty": false,
+        "center": {
+          "x": 1900,
+          "y": 220
+        },
+        "topLeft": {
+          "x": 1820,
+          "y": 200
+        }
+      }
+    },
+    {
+      "id": "ab27194b-da32-41e0-a9d4-05d91bc3c951",
+      "x": 2160,
+      "y": 180,
+      "width": 160,
+      "height": 80,
+      "shape": "Rectangle",
+      "text": "RECORDS",
+      "textStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 28,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF1F2937",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "fillColor": "#00000000",
+      "strokeColor": "#00000000",
+      "strokeThickness": 2,
+      "strokeStyle": "Solid",
+      "cornerRadius": 10,
+      "zIndex": 24,
+      "bounds": {
+        "x": 2160,
+        "y": 180,
+        "width": 160,
+        "height": 80,
+        "left": 2160,
+        "top": 180,
+        "right": 2320,
+        "bottom": 260,
+        "isEmpty": false,
+        "center": {
+          "x": 2240,
+          "y": 220
+        },
+        "topLeft": {
+          "x": 2160,
+          "y": 180
+        }
+      }
+    },
+    {
+      "id": "654cdbd4-6f61-4c00-a0f3-f7683c4e7095",
+      "x": 2100,
+      "y": 260,
+      "width": 540,
+      "height": 580,
+      "shape": "Rectangle",
+      "text": "- Hand:\r\n   Card\r\n   Card\r\n- Community Cards:\r\n   Card?\r\n   Card?\r\n   Card?\r\n   Card?\r\n   Card? \r\n- Game State: \r\n   Blind: Enum\r\n   Round: Enum\r\n   Hand: Object\r\n   Community cards: Object\r\n   Pot: int\r\n   Bet to call: int\r\n   Stacks: object\r\n   Action History: object",
+      "textStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 20,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF1F2937",
+        "horizontalAlignment": "Left",
+        "verticalAlignment": "Top"
+      },
+      "fillColor": "#00000000",
+      "strokeColor": "#FF000000",
+      "strokeThickness": 2,
+      "strokeStyle": "Solid",
+      "cornerRadius": 10,
+      "zIndex": 25,
+      "bounds": {
+        "x": 2100,
+        "y": 260,
+        "width": 540,
+        "height": 580,
+        "left": 2100,
+        "top": 260,
+        "right": 2640,
+        "bottom": 840,
+        "isEmpty": false,
+        "center": {
+          "x": 2370,
+          "y": 550
+        },
+        "topLeft": {
+          "x": 2100,
+          "y": 260
+        }
+      }
+    },
+    {
+      "id": "eb90814e-8b0b-4d21-8380-165268bd1e26",
+      "x": 2740,
+      "y": 180,
+      "width": 160,
+      "height": 80,
+      "shape": "Rectangle",
+      "text": "BUSINESS LOGIC",
+      "textStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 28,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF1F2937",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "fillColor": "#00000000",
+      "strokeColor": "#00000000",
+      "strokeThickness": 2,
+      "strokeStyle": "Solid",
+      "cornerRadius": 10,
+      "zIndex": 26,
+      "bounds": {
+        "x": 2740,
+        "y": 180,
+        "width": 160,
+        "height": 80,
+        "left": 2740,
+        "top": 180,
+        "right": 2900,
+        "bottom": 260,
+        "isEmpty": false,
+        "center": {
+          "x": 2820,
+          "y": 220
+        },
+        "topLeft": {
+          "x": 2740,
+          "y": 180
+        }
+      }
+    },
+    {
+      "id": "f2a104ea-7d33-4088-9cb5-50a3cbc70cc1",
+      "x": 2700,
+      "y": 260,
+      "width": 440,
+      "height": 580,
+      "shape": "Rectangle",
+      "text": "- KPIs Calculator.\r\n- Movement Selector.\r\n- Raise bet calculator.\r\n- Validator:\r\n   Card validator for hand and com. cards.\r\n   Duplicated card validation for all visible cards\r\n   Total number of community cards vs round\r\n   Number of shown cards vs round\r\n   Pot consistency (stacks and pot should equal the total)\r\n   Historial validation against the round\r\n   Historial consistency (Who started each round with the bets)",
+      "textStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 20,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF1F2937",
+        "horizontalAlignment": "Left",
+        "verticalAlignment": "Top"
+      },
+      "fillColor": "#00000000",
+      "strokeColor": "#FF000000",
+      "strokeThickness": 2,
+      "strokeStyle": "Solid",
+      "cornerRadius": 10,
+      "zIndex": 27,
+      "bounds": {
+        "x": 2700,
+        "y": 260,
+        "width": 440,
+        "height": 580,
+        "left": 2700,
+        "top": 260,
+        "right": 3140,
+        "bottom": 840,
+        "isEmpty": false,
+        "center": {
+          "x": 2920,
+          "y": 550
+        },
+        "topLeft": {
+          "x": 2700,
+          "y": 260
+        }
+      }
+    }
+  ],
+  "connectors": [
+    {
+      "id": "b72ce82f-3985-4f65-8fe5-8444c96c28f2",
+      "sourceNodeId": "9095a3e8-2131-4e0f-9123-e826bc591b75",
+      "targetNodeId": "0724029c-6614-4634-ae0e-276d42f7c848",
+      "lineStyle": "Solid",
+      "route": "Straight",
+      "startCap": "None",
+      "endCap": "Arrow",
+      "color": "#FF475569",
+      "thickness": 2,
+      "label": "",
+      "labelStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 12,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF374151",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "labelPosition": 0.5,
+      "labelOffset": -14,
+      "zIndex": 0,
+      "hasLabel": false
+    },
+    {
+      "id": "a244a68d-89f5-40b6-9f89-4b81911d0482",
+      "sourceNodeId": "9095a3e8-2131-4e0f-9123-e826bc591b75",
+      "targetNodeId": "712a7723-b957-42bc-871b-aae50065c922",
+      "lineStyle": "Solid",
+      "route": "Straight",
+      "startCap": "None",
+      "endCap": "Arrow",
+      "color": "#FF475569",
+      "thickness": 2,
+      "label": "",
+      "labelStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 12,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF374151",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "labelPosition": 0.5,
+      "labelOffset": -14,
+      "zIndex": 1,
+      "hasLabel": false
+    },
+    {
+      "id": "a6ada644-bde0-4df3-adf1-e65bcb67d0ee",
+      "sourceNodeId": "9095a3e8-2131-4e0f-9123-e826bc591b75",
+      "targetNodeId": "15366808-a13c-4fa0-95e6-5591d2eda868",
+      "lineStyle": "Solid",
+      "route": "Straight",
+      "startCap": "None",
+      "endCap": "Arrow",
+      "color": "#FF475569",
+      "thickness": 2,
+      "label": "",
+      "labelStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 12,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF374151",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "labelPosition": 0.5,
+      "labelOffset": -14,
+      "zIndex": 2,
+      "hasLabel": false
+    },
+    {
+      "id": "f9121368-35d0-40ae-8737-5cb7860362d5",
+      "sourceNodeId": "6d036bef-45f6-47bd-8640-9edb267a190e",
+      "targetNodeId": "1822541a-52f1-4879-a58a-097f40922693",
+      "lineStyle": "Solid",
+      "route": "Straight",
+      "startCap": "None",
+      "endCap": "Arrow",
+      "color": "#FF475569",
+      "thickness": 2,
+      "label": "",
+      "labelStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 12,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF374151",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "labelPosition": 0.5,
+      "labelOffset": -14,
+      "zIndex": 3,
+      "hasLabel": false
+    },
+    {
+      "id": "0f28886d-717c-4803-878c-5ffb05e6a7f7",
+      "sourceNodeId": "b16ef14d-3283-412d-b9a0-bb7b4b18400f",
+      "targetNodeId": "8daee1bb-85a7-4018-8e75-167af59a2daa",
+      "lineStyle": "Solid",
+      "route": "Straight",
+      "startCap": "None",
+      "endCap": "Arrow",
+      "color": "#FF475569",
+      "thickness": 2,
+      "label": "",
+      "labelStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 12,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF374151",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "labelPosition": 0.5,
+      "labelOffset": -14,
+      "zIndex": 4,
+      "hasLabel": false
+    },
+    {
+      "id": "2f0b1a03-dfa6-47a5-bacc-8a65a800e2b0",
+      "sourceNodeId": "b16ef14d-3283-412d-b9a0-bb7b4b18400f",
+      "targetNodeId": "032804f8-f858-4d0f-aca0-d3a7501beab4",
+      "lineStyle": "Solid",
+      "route": "Straight",
+      "startCap": "None",
+      "endCap": "Arrow",
+      "color": "#FF475569",
+      "thickness": 2,
+      "label": "",
+      "labelStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 12,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF374151",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "labelPosition": 0.5,
+      "labelOffset": -14,
+      "zIndex": 5,
+      "hasLabel": false
+    },
+    {
+      "id": "aff96ff6-95ad-44f8-a103-10bc0437eea9",
+      "sourceNodeId": "b16ef14d-3283-412d-b9a0-bb7b4b18400f",
+      "targetNodeId": "a09012a9-01c9-4c3f-b483-975e51e312bb",
+      "lineStyle": "Solid",
+      "route": "Straight",
+      "startCap": "None",
+      "endCap": "Arrow",
+      "color": "#FF475569",
+      "thickness": 2,
+      "label": "",
+      "labelStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 12,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF374151",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "labelPosition": 0.5,
+      "labelOffset": -14,
+      "zIndex": 6,
+      "hasLabel": false
+    },
+    {
+      "id": "b0731078-0083-4f7c-9084-2a0ed9dd6808",
+      "sourceNodeId": "877693e9-ca58-410e-8775-b7a34a650310",
+      "targetNodeId": "a9dd0354-5df0-4b2d-8060-f63a4495eb08",
+      "lineStyle": "Solid",
+      "route": "Straight",
+      "startCap": "None",
+      "endCap": "Arrow",
+      "color": "#FF475569",
+      "thickness": 2,
+      "label": "",
+      "labelStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 12,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF374151",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "labelPosition": 0.5,
+      "labelOffset": -14,
+      "zIndex": 8,
+      "hasLabel": false
+    },
+    {
+      "id": "0cc6a4c9-0549-4cf2-9a95-3b49f93cdb7c",
+      "sourceNodeId": "1822541a-52f1-4879-a58a-097f40922693",
+      "targetNodeId": "06056f16-599c-411c-9b8f-c735ba7d4a14",
+      "lineStyle": "Solid",
+      "route": "Straight",
+      "startCap": "None",
+      "endCap": "Arrow",
+      "color": "#FF475569",
+      "thickness": 2,
+      "label": "",
+      "labelStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 12,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF374151",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "labelPosition": 0.5,
+      "labelOffset": -14,
+      "zIndex": 9,
+      "hasLabel": false
+    },
+    {
+      "id": "dc6db821-b609-4b42-bc07-72cf567e1c3e",
+      "sourceNodeId": "06056f16-599c-411c-9b8f-c735ba7d4a14",
+      "targetNodeId": "cfc23bca-d6b3-4b3b-a30e-a3584b1320f8",
+      "lineStyle": "Solid",
+      "route": "Straight",
+      "startCap": "None",
+      "endCap": "Arrow",
+      "color": "#FF475569",
+      "thickness": 2,
+      "label": "NO",
+      "labelStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 12,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF374151",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "labelPosition": 0.5,
+      "labelOffset": -14,
+      "zIndex": 10,
+      "hasLabel": true
+    },
+    {
+      "id": "6bb1acc2-b294-450e-9205-44f02bc48981",
+      "sourceNodeId": "06056f16-599c-411c-9b8f-c735ba7d4a14",
+      "targetNodeId": "877693e9-ca58-410e-8775-b7a34a650310",
+      "lineStyle": "Solid",
+      "route": "Straight",
+      "startCap": "None",
+      "endCap": "Arrow",
+      "color": "#FF475569",
+      "thickness": 2,
+      "label": "YES",
+      "labelStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 12,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF374151",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "labelPosition": 0.5,
+      "labelOffset": -14,
+      "zIndex": 11,
+      "hasLabel": true
+    },
+    {
+      "id": "de1a2856-1eac-46fc-9e2f-32007ae43ab5",
+      "sourceNodeId": "a9dd0354-5df0-4b2d-8060-f63a4495eb08",
+      "targetNodeId": "7b3d9f85-122b-403a-a68f-51c388818b57",
+      "lineStyle": "Solid",
+      "route": "Straight",
+      "startCap": "None",
+      "endCap": "Arrow",
+      "color": "#FF475569",
+      "thickness": 2,
+      "label": "",
+      "labelStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 12,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF374151",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "labelPosition": 0.5,
+      "labelOffset": -14,
+      "zIndex": 12,
+      "hasLabel": false
+    },
+    {
+      "id": "a5ab5fc7-fe0f-4e6c-aa62-873d289a37e5",
+      "sourceNodeId": "7b3d9f85-122b-403a-a68f-51c388818b57",
+      "targetNodeId": "139527e8-81ba-48b6-a76e-0037d56f692d",
+      "lineStyle": "Solid",
+      "route": "Straight",
+      "startCap": "None",
+      "endCap": "Arrow",
+      "color": "#FF475569",
+      "thickness": 2,
+      "label": "YES",
+      "labelStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 12,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF374151",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "labelPosition": 0.5,
+      "labelOffset": -14,
+      "zIndex": 13,
+      "hasLabel": true
+    },
+    {
+      "id": "98ce53a8-b62e-4c98-9caa-f8a339277809",
+      "sourceNodeId": "7b3d9f85-122b-403a-a68f-51c388818b57",
+      "targetNodeId": "b984ad7a-d4b3-49b9-96ae-43bf4d2a0774",
+      "lineStyle": "Solid",
+      "route": "Elbow",
+      "startCap": "None",
+      "endCap": "Arrow",
+      "color": "#FF475569",
+      "thickness": 2,
+      "label": "NO",
+      "labelStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 12,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF374151",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "labelPosition": 0.5,
+      "labelOffset": -14,
+      "zIndex": 14,
+      "hasLabel": true
+    },
+    {
+      "id": "d2d8e9cd-c6b8-465f-b32b-7120fa432612",
+      "sourceNodeId": "139527e8-81ba-48b6-a76e-0037d56f692d",
+      "targetNodeId": "b984ad7a-d4b3-49b9-96ae-43bf4d2a0774",
+      "lineStyle": "Solid",
+      "route": "Straight",
+      "startCap": "None",
+      "endCap": "Arrow",
+      "color": "#FF475569",
+      "thickness": 2,
+      "label": "",
+      "labelStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 12,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF374151",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "labelPosition": 0.5,
+      "labelOffset": -14,
+      "zIndex": 15,
+      "hasLabel": false
+    },
+    {
+      "id": "8205619b-a8bf-4990-aebf-98b22221c283",
+      "sourceNodeId": "9095a3e8-2131-4e0f-9123-e826bc591b75",
+      "targetNodeId": "6f8d1f6b-102d-486a-8e35-431b1bcbb80e",
+      "lineStyle": "Solid",
+      "route": "Straight",
+      "startCap": "None",
+      "endCap": "Arrow",
+      "color": "#FF475569",
+      "thickness": 2,
+      "label": "",
+      "labelStyle": {
+        "fontFamily": "Segoe UI",
+        "fontSize": 12,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "#FF374151",
+        "horizontalAlignment": "Center",
+        "verticalAlignment": "Middle"
+      },
+      "labelPosition": 0.5,
+      "labelOffset": -14,
+      "zIndex": 16,
+      "hasLabel": false
+    }
+  ],
+  "groups": [],
+  "canvas": {
+    "backgroundColor": "#FFFAFAFA",
+    "showGrid": true,
+    "gridSize": 20,
+    "snapToGrid": true
+  }
+}

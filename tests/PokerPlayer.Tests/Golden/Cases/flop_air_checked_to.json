@@ -1,0 +1,14 @@
+{
+  "HandCards": ["AC", "4D"],
+  "CommunityCards": ["KH", "9S", "2C", "", ""],
+  "Street": "Flop",
+  "PotSize": 12,
+  "BetToCall": 0,
+  "BigBlind": 2,
+  "ActionHistory": ["bet", "raise", "raise", "call", "check"],
+  "Players": [
+    { "Name": "Hero", "Stack": 94, "Blinds": "SB" },
+    { "Name": "Villain", "Stack": 94, "Blinds": "BB",
+      "Stats": { "VPIP": 0.24, "PFR": 0.20, "ThreeBet": 0.08, "AF": 2.5 } }
+  ]
+}

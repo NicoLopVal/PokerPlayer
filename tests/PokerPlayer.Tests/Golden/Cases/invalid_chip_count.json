@@ -1,0 +1,15 @@
+{
+  "HandCards": ["AH", "AD"],
+  "CommunityCards": ["", "", "", "", ""],
+  "Street": "Preflop",
+  "PotSize": 3,
+  "BetToCall": 1,
+  "BigBlind": 2,
+  "TotalChips": 199,
+  "ActionHistory": ["bet", "raise"],
+  "Players": [
+    { "Name": "Hero", "Stack": 99, "Blinds": "SB" },
+    { "Name": "Villain", "Stack": 98, "Blinds": "BB",
+      "Stats": { "VPIP": 0.24, "PFR": 0.20, "ThreeBet": 0.08, "AF": 2.5 } }
+  ]
+}
